@@ -19,23 +19,6 @@
     self.singNameLab.text=model.artists_name;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-- (void)awakeFromNib {
-    // Initialization code
-}
-
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
     [super setSelected:selected animated:animated];
 
