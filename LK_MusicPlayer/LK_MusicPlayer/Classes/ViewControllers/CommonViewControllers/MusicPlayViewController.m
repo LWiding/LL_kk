@@ -30,7 +30,7 @@
 
 @property (weak, nonatomic) IBOutlet UILabel *durationLab;
 
-
+//////////////////
 @end
 
 @implementation MusicPlayViewController
