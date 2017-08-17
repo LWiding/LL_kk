@@ -193,7 +193,7 @@
 }
 
 
-//上一曲
+//上一曲歌曲
 - (IBAction)lastBUT:(UIButton *)sender {
     //先暂停播放
     [[MusicPlayHelper shareInstance] pauseMusic];
