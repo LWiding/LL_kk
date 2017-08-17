@@ -9,7 +9,7 @@
 /**
  *  音乐管理类
  */
-
+////////////////////////////////
 #import <Foundation/Foundation.h>
 
 @interface MusicManager : NSObject
