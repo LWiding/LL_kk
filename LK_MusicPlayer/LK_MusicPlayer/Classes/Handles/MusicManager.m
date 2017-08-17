@@ -9,7 +9,7 @@
 #import "MusicManager.h"
 
 @interface MusicManager ()
-
+///
 @property(nonatomic ,strong)NSMutableArray * allMusicModelArray;//存放所有模型
 
 @end
