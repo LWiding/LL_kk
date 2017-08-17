@@ -20,6 +20,6 @@
 @property (weak, nonatomic) IBOutlet UILabel *singNameLab;
 
 
-@property (nonatomic, strong) NSString *mmmm;
+
 
 @end
